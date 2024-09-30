@@ -6,7 +6,8 @@
 
 点击下载ZIP完成后，解压ZIP文件
 
-![image-20240930151237868](https://github.com/user-attachments/assets/2c60a71a-5506-445a-8b4b-6fb7b891ccbd)
+![image](https://github.com/user-attachments/assets/a3335027-daa1-4956-a533-518de98e230b)
+
 
 ## 安装
 
