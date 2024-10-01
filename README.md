@@ -1,8 +1,10 @@
 # Typora安装教程
 
+**注：本教程只针对v1.6DLL注入版，v1.9.5手操版教程请点[这里](docs/READMEv195.md)**
+
 ## 下载
 
-跳转：[Release](https://github.com/OAOSS-CUP/Typora/releases)
+[Release](https://github.com/OAOSS-CUP/Typora/releases)
 
 点击Assets中的压缩包
 ![image](https://github.com/user-attachments/assets/88b3fecc-c5d1-4409-8656-da7ca646eb0b)
@@ -25,6 +27,8 @@
 下载完成后，**不要勾选Launch Typora**（不过勾选了关掉也行）
 
 ![image-20240930151853836](https://github.com/user-attachments/assets/32069226-2ae6-41df-abfc-c15bf9a1f61f)
+
+## 破解
 
 在桌面找到Typora图标，右键选择**打开文件所在位置**
 
