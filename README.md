@@ -28,6 +28,8 @@
 
 ![image-20240930151853836](https://github.com/user-attachments/assets/32069226-2ae6-41df-abfc-c15bf9a1f61f)
 
+## 破解
+
 在桌面找到Typora图标，右键选择**打开文件所在位置**
 
 ![image-20240930151950551](https://github.com/user-attachments/assets/497d342d-7840-4469-b0dd-319b84e0f5cc)
