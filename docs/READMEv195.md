@@ -5,7 +5,7 @@
 [Release](https://github.com/OAOSS-CUP/Typora/releases)
 
 点击Assets中的exe
-![image](https://github.com/user-attachments/assets/9639a393-99d2-4e07-9bac-e36b5dc9f12a)
+![1](https://github.com/user-attachments/assets/0526ab76-a7ce-4432-84fa-cf131982aaaa)
 
 
 ## 安装
@@ -36,10 +36,12 @@
 \resources\page-dist\static\js
 ```
 找到名为Licenseindex的js文件
-![image](https://github.com/user-attachments/assets/194f789c-f894-42ea-a9d7-cf768fd7414c)
+
+![2](https://github.com/user-attachments/assets/4a80fb55-38d5-47e4-bb9d-6f8e502a2a0c)
 
 用VScode打开，**Ctrl+F**查找**e.hasActivated**
-![image](https://github.com/user-attachments/assets/04a24fde-5c1d-4cab-bc5f-6fc15b6e4be2)
+
+![3](https://github.com/user-attachments/assets/a696a972-7ffe-4cdb-a738-ce98229f1992)
 
 将这段
 ```
@@ -57,11 +59,10 @@ e.hasActivated="true"=="true"
 ```
 \resources\page-dist\license.html
 ```
-![image](https://github.com/user-attachments/assets/3b89388f-f8db-4d8e-8ebd-e99b6e085d9d)
 
 右键选择**格式化代码**
 
-![image](https://github.com/user-attachments/assets/f4898a18-dacc-4e4a-a7d0-d94547f0d663)
+![4](https://github.com/user-attachments/assets/a2eadcda-d89d-4dba-b41f-778b030c873c)
 
 翻到最下面，找到如下代码
 ```html
@@ -81,7 +82,6 @@ e.hasActivated="true"=="true"
 ```
 \resources\locales\zh-Hans.lproj\Panel.json 
 ```
-![image](https://github.com/user-attachments/assets/b939f8f7-be14-4592-824a-044977243353)
 
 **Ctrl+F**查找
 ```json
@@ -92,5 +92,7 @@ e.hasActivated="true"=="true"
 ```json
 "UNREGISTERED":" "
 ```
+
+![5](https://github.com/user-attachments/assets/26e27af6-8417-4408-8529-4bf9a89ddf2e)
 
 *就这样，是不是很简单~*
