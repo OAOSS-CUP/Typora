@@ -1,6 +1,6 @@
 # Typora安装教程
 
-**注：本教程只针对v1.6DLL注入版，v1.9.5手操版教程请点[这里](docs/READMEv195.md)**
+**注：本教程只针对v1.6DLL注入版(比较简单，推荐)，v1.9.5手操版教程请点[这里](docs/READMEv195.md)**
 
 ## 下载
 
@@ -8,7 +8,6 @@
 
 点击Assets中的压缩包
 ![image](https://github.com/user-attachments/assets/88b3fecc-c5d1-4409-8656-da7ca646eb0b)
-
 
 ## 安装
 
