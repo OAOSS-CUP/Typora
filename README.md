@@ -3,6 +3,6 @@
 # Typora 简明教程
 <hr/>
 
-[下载](docs/Install/READMEv1.6.md) | [使用](docs/Introduction/Introduction.md)
+[下载](docs/install/v1.6.md) | [使用](docs/use/use.md)
 
 </div>
